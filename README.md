@@ -1,4 +1,4 @@
-# ArtuinoRTX
+# ArduinoRTX
 
 ArduinoRTX is a small library playing RTTTL/RTX ringtones.
 
