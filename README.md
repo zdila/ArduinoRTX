@@ -1,6 +1,6 @@
 # ArtuinoRTX
 
-ArtuinoRTX is a small library playing RTTTL/RTX ringtones.
+ArduinoRTX is a small library playing RTTTL/RTX ringtones.
 
 It is based on the code originally written by Brett Hagman updated to be non-blocking and support advanced features of RTX format.
 
